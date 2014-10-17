@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nba:home|Door43 (nba)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nba|d43-nba repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nba/archive/master.zip|d43-nba.zip]]
+
+**Recent Changes**
+{{changes>ns = nba}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nba|Ethnologue data]]
+
